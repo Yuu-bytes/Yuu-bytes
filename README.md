@@ -8,4 +8,4 @@
 
 ![Michael Trage GitHub stats](https://github-readme-stats.vercel.app/api?username=yuu-bytes&count_private=true&show_icons=true&theme=tokyonight)
 
-[![LinkedIn](https://img.shields.io/badge/richard-trage-b5b67b140?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/michael-trage-49024a22a/)
+[![LinkedIn](https://img.shields.io/badge/michael-trage-49024a22a?logo=linkedin&style=for-the-badge&logoColor=0077B5)](https://www.linkedin.com/in/michael-trage-49024a22a/)
